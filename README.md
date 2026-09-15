@@ -111,6 +111,9 @@ When a LEGO set is selected, the dashboard displays detailed information includi
 
 ## 🌳 Hierarchical Analysis
 
+<img width="1907" height="977" alt="Screenshot 2026-09-15 142852" src="https://github.com/user-attachments/assets/c9b0f239-bcaf-4851-aed2-967ca73e7079" />
+
+
 A hierarchy-based analysis was created to explore LEGO products from a broader category to individual sets.
 
 ```text
