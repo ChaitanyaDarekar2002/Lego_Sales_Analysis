@@ -94,7 +94,8 @@ The dashboard analyzes LEGO sets across different:
 
 ### 📊 Category Analysis
 
-The dashboard provides insights into different LEGO product categories and their contribution to the total number of sets.
+<img width="1907" height="975" alt="Screenshot 2026-09-15 142806" src="https://github.com/user-attachments/assets/e7f25007-30a0-40c8-ab48-577349e60595" />
+
 
 ### 🔍 Product Details
 
